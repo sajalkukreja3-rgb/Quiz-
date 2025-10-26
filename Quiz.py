@@ -1,2 +1,2 @@
-print("Welcome to Quiz game ")
+st.write("Welcome to Quiz game ")
 
